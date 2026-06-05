@@ -1,0 +1,74 @@
+<div class="hero-bg">
+<div class="hero-blob hero-blob-1"></div>
+<div class="hero-blob hero-blob-2"></div>
+<div class="hero-blob hero-blob-3"></div>
+<div class="hero-content">
+
+<!-- Nội dung của bạn -->
+<div class="sub-title">
+<div class="title-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><title xmlns="">truck</title><path fill="currentColor" d="M5.5 14a2.5 2.5 0 0 1 2.45 2H15V6H4a2 2 0 0 0-2 2v8h1.05a2.5 2.5 0 0 1 2.45-2m0 5a2.5 2.5 0 0 1-2.45-2H1V8a3 3 0 0 1 3-3h11a1 1 0 0 1 1 1v2h3l3 4v5h-2.05a2.5 2.5 0 0 1-4.9 0h-7.1a2.5 2.5 0 0 1-2.45 2m0-4A1.5 1.5 0 0 0 4 16.5A1.5 1.5 0 0 0 5.5 18A1.5 1.5 0 0 0 7 16.5A1.5 1.5 0 0 0 5.5 15m12-1a2.5 2.5 0 0 1 2.45 2H21v-3.68l-.24-.32H16v2.5c.42-.31.94-.5 1.5-.5m0 1a1.5 1.5 0 0 0-1.5 1.5a1.5 1.5 0 0 0 1.5 1.5a1.5 1.5 0 0 0 1.5-1.5a1.5 1.5 0 0 0-1.5-1.5M16 9v2h4l-1.5-2z"/></svg>
+</div>
+<h2 class="sub-title-text">Nền tảng lái xe hộ chuyên nghiệp hàng đầu Việt Nam</h2>
+</div>
+<div class="title-area">
+<h1 class="main-title"><span class="first">Dịch vụ</span>
+<span class="second gradient-text">Lái Xe Hộ Người Uống Rượu Bia </span></h1>
+<div class="hero-description">Dịch vụ lái xe hộ chuyên nghiệp hoạt động 24/7, hỗ trợ đưa khách hàng và phương tiện về nhà an toàn sau tiệc rượu bia, sự kiện, công tác hoặc những trường hợp không thể tự lái xe</div>
+</div>
+
+<section class="price-grid">
+<div class="cell head">Khoảng cách</div>
+<div class="cell head">Trước 22h (06h-22h)</div>
+<div class="cell head">Sau 22h (22h-06h)</div>
+<div class="cell distance">&lt; 5 km</div>
+<div class="cell day">250.000</div>
+<div class="cell night">280.000</div>
+<div class="cell distance">6 km</div>
+<div class="cell day">265.000</div>
+<div class="cell night">295.000</div>
+<div class="cell distance">7 km</div>
+<div class="cell day">280.000</div>
+<div class="cell night">310.000</div>
+<div class="cell distance">8 km</div>
+<div class="cell day">295.000</div>
+<div class="cell night">325.000</div>
+<div class="cell distance">9 km</div>
+<div class="cell day">310.000</div>
+<div class="cell night">335.000</div>
+<div class="cell distance">10 km</div>
+<div class="cell day">320.000</div>
+<div class="cell night">350.000</div>
+<div class="cell distance">11 km</div>
+<div class="cell day">330.000</div>
+<div class="cell night">365.000</div>
+<div class="cell distance">12 km</div>
+<div class="cell day">345.000</div>
+<div class="cell night">380.000</div>
+<div class="cell distance">13 km</div>
+<div class="cell day">360.000</div>
+<div class="cell night">395.000</div>
+<div class="cell distance">14 km</div>
+<div class="cell day">370.000</div>
+<div class="cell night">410.000</div>
+<div class="cell distance">15 km</div>
+<div class="cell day">380.000</div>
+<div class="cell night">420.000</div>
+<div class="cell distance">Từ 16 km trở lên</div>
+<div class="cell day">380.000 + 10.000/km</div>
+<div class="cell night">420.000 + 15.000/km</div>
+<div class="cell distance">Phụ phí phát sinh giờ chờ( &lt; 30 phút miễn phí)</div>
+<div class="cell day">50.000/1h</div>
+<div class="cell night">80.000/1h</div>
+</section>
+
+
+<div class="cta-group"><a class="hero-cta primary-cta grad-cta" href="http://zalo.me/0387597099">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24"><title xmlns="">rocket-outline</title><path fill="currentColor" d="m6.52 19.127l2.474-1.011q-.327-.975-.559-1.985q-.231-1.01-.337-2.048l-1.31.876q-.134.097-.202.222t-.067.278zM10 18h4q.45-1.211.725-2.649T15 12.356q0-2.264-.69-4.169T12 4.507q-1.62 1.777-2.31 3.681T9 12.357q0 1.558.275 2.995T10 18m.934-5.934Q10.5 11.633 10.5 11t.434-1.066T12 9.5t1.066.434q.434.433.434 1.066t-.434 1.066T12 12.5t-1.066-.434m6.547 7.061v-3.648q0-.154-.068-.288q-.067-.135-.202-.232l-1.309-.876q-.106 1.038-.386 2.25t-.51 1.802zM12 3.187q2.071 1.838 3.035 4.142Q16 9.633 16 12.462q0 .115.01.24t-.01.26l1.735 1.169q.348.217.547.58t.199.768v5.117L14.506 19H9.475l-3.956 1.596V15.46q0-.404.19-.768q.189-.363.537-.58L8 12.942v-.48q0-2.83.965-5.133Q9.929 5.025 12 3.187"/></svg>
+Liên hệ qua Zalo </a>
+<a class="hero-cta secondary-cta" href="#price-area">Xem báo giá</a></div>
+</div>
+<p class="call-me">Đừng ngần ngại gọi cho chúng tôi khi bạn không ở trạng thái tốt để lái xe</p>
+
+
+</div>
